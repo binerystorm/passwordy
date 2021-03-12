@@ -10,14 +10,14 @@ But to use it is pretty self explanitory it promts you on what to do most of the
 There are still acouple of things I must do such as..:
 
 #### Must be fixed
-[] the word count prompt is not very discriptive on what the rules are
-[] if you click strong and then very strong without clicking yes or no (to gen the password) you get a wierd overlap affect wich is not desired
-[] I should comment the code better
+[ ] the word count prompt is not very discriptive on what the rules are
+[ ] if you click strong and then very strong without clicking yes or no (to gen the password) you get a wierd overlap affect wich is not desired
+[ ] I should comment the code better
 But atleast it shouldn't crash on you
 
 #### Not that big a deal
-[] The window looks a bit ugly it would be nice to style it better
-[] The previeas number is still in the text box when you next call the function for strong
+[X] The window looks a bit ugly it would be nice to style it better
+[x] The previeas number is still in the text box when you next call the function for strong
 
 ## In development
 
