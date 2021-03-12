@@ -12,7 +12,7 @@ There are still acouple of things I must do such as..:
 #### Must be fixed
 - [ ] the word count prompt is not very discriptive on what the rules are
 - [ ] if you click strong and then very strong without clicking yes or no (to gen the password) you get a wierd overlap affect wich is not desired
-- [ ] I should comment the code better
+- [ ] I should comment the code better <br>
 But atleast it shouldn't crash on you
 
 #### Not that big a deal
